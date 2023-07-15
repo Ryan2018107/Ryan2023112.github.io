@@ -1,0 +1,78 @@
+p {
+  color: red;
+}
+
+html {
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+h2 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+body {
+  /* The image used */
+  background-image: url("../images/企鵝背景圖.jpg");
+  /* Full height */
+  height: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h2 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #2E4053;
+  text-shadow: 3px 3px 1px black;
+}
+
+img {
+  height: 350px;
+  display: block;
+  margin: 0 auto;
+}
+
+#pop {
+  font-size: 30px;
+}
+
+.content {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.heading1 {
+  margin-left: 20%;
+}
+
+.baseball {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 2%;
+}
+
+
+
+.basketball {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 10%;
+}
+
+a {
+  display: block;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
